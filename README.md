@@ -29,4 +29,4 @@ The numbered scripts and notebooks demonstrate additional RAG techniques. Most e
 ## Project credit
 
 **Author:** C Hari Kiran  
-**Project watermark:** `Fieldnote · C Hari Kiran`
+
